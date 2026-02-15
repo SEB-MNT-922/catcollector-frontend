@@ -5,7 +5,7 @@ function Nav({ user }) {
   const authenticatedOptions = (
     <>
       <NavLink className="nav-link" to="/cats">
-        Cats
+        Cats wow
       </NavLink>
       <NavLink className="nav-link" to="/toys">
         Toys
